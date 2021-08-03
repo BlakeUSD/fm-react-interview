@@ -11,7 +11,7 @@
 ## Character Card Design 
 <img width="895" alt="character-card" src="https://user-images.githubusercontent.com/2104197/128072124-c270f882-ba32-4cca-9592-6c8273b2f057.png">
 
-##Search Functionality Reference
+## Search Functionality Reference
 https://user-images.githubusercontent.com/2104197/128072235-bbd6d1b0-6d5d-46a3-861b-76f46418823a.mov
 
 
