@@ -1,4 +1,4 @@
-##Here is a list of objectives for this project:
+## Here is a list of objectives for this project:
 - [ ] Pull github repo
 - [ ] Create a branch (feature/YOUR-NAME)
 - [ ] Stand up app
@@ -8,7 +8,7 @@
 - [ ] Style Character Detail Card based on design provided
 - [ ] Create pull request
 
-##Character Card Design 
+## Character Card Design 
 <img width="895" alt="character-card" src="https://user-images.githubusercontent.com/2104197/128072124-c270f882-ba32-4cca-9592-6c8273b2f057.png">
 
 ##Search Functionality Reference
